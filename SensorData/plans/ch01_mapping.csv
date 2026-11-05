@@ -1,0 +1,6 @@
+chapter,test_name,surface_value,trial_num,samples,settle_ms,timeout_ms,rectangle_width_mm,direction,position_mm,target_sensor,split
+1,mapping_DN1,0,1,100,2000,30000,,,,,
+1,mapping_DN2,0,2,100,2000,30000,,,,,
+1,mapping_DN3,0,3,100,2000,30000,,,,,
+1,mapping_DN4,0,4,100,2000,30000,,,,,
+1,mapping_DN5,0,5,100,2000,30000,,,,,

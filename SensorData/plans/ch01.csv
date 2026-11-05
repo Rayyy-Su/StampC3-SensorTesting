@@ -1,0 +1,3 @@
+chapter,test_name,surface_value,trial_num,samples,settle_ms,timeout_ms,rectangle_width_mm,direction,position_mm,target_sensor,split
+1,readingTest,255,1,200,2000,30000,,,,,
+1,readingTest,0,1,200,2000,30000,,,,,

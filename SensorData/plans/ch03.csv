@@ -1,0 +1,13 @@
+chapter,test_name,surface_value,trial_num,samples,settle_ms,timeout_ms,rectangle_width_mm,direction,position_mm,target_sensor,split
+3,saturationTest,255,1,200,2000,30000,,,,,
+3,saturationTest,200,1,200,2000,30000,,,,,
+3,saturationTest,150,1,200,2000,30000,,,,,
+3,saturationTest,100,1,200,2000,30000,,,,,
+3,saturationTest,50,1,200,2000,30000,,,,,
+3,saturationTest,0,1,200,2000,30000,,,,,
+3,saturationTest,0,2,200,2000,30000,,,,,
+3,saturationTest,50,2,200,2000,30000,,,,,
+3,saturationTest,100,2,200,2000,30000,,,,,
+3,saturationTest,150,2,200,2000,30000,,,,,
+3,saturationTest,200,2,200,2000,30000,,,,,
+3,saturationTest,255,2,200,2000,30000,,,,,

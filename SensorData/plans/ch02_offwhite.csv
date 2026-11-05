@@ -1,0 +1,4 @@
+chapter,test_name,surface_value,trial_num,samples,settle_ms,timeout_ms,rectangle_width_mm,direction,position_mm,target_sensor,split
+2,offsetTest_offwhite,200,1,200,2000,30000,,,,,
+2,offsetTest_offwhite,200,2,200,2000,30000,,,,,
+2,offsetTest_offwhite,200,3,200,2000,30000,,,,,
